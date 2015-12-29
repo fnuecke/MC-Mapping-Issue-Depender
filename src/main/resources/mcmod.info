@@ -1,0 +1,16 @@
+[
+{
+  "modid": "test-mapping-depender",
+  "name": "Test Depender Mod",
+  "description": "Mod depending on other mod.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Sangar"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
